@@ -1,4 +1,4 @@
-1.	Setup Server: Menggunakan Express.js.
+1.	Setup Server: Menggunakan Express.js. (selesai)
 2.	Koneksi Database:Express ke Supabase.
 3.	Endpoint CRUD: (Create, Read, Update, Delete) untuk produk dan order.
 4.	Endpoint Payment: Menghubungkan logika bisnis Anda dengan API Midtrans.
